@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "LeaveManagement": {
+        "command": "uv",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "mcp",
+          "run",
+          "C:\\Python\\mcpsample\\mymcpserver\\main.py"
+        ]
+      }
+    }
+  }
