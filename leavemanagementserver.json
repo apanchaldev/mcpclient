@@ -10,6 +10,14 @@
           "run",
           "C:\\Python\\mcpsample\\mymcpserver\\main.py"
         ]
+      },
+      "ddg-search": {
+        "command": "uvx",
+        "args": ["duckduckgo-mcp-server"]
+      },
+      "playwright": {
+        "command": "npx",
+        "args": ["@playwright/mcp@latest"]
       }
     }
   }
